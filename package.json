@@ -1,0 +1,5 @@
+{
+  "dependencies": {
+    "repro-pkgroll-lib": "cruzdanilo/repro-pkgroll-lib#5fc7a38"
+  }
+}
