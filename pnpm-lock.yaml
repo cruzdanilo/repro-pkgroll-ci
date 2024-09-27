@@ -9,16 +9,16 @@ importers:
   .:
     dependencies:
       repro-pkgroll-lib:
-        specifier: cruzdanilo/repro-pkgroll-lib#5fc7a38
-        version: https://codeload.github.com/cruzdanilo/repro-pkgroll-lib/tar.gz/5fc7a38
+        specifier: cruzdanilo/repro-pkgroll-lib#1476cbf
+        version: https://codeload.github.com/cruzdanilo/repro-pkgroll-lib/tar.gz/1476cbf
 
 packages:
 
-  repro-pkgroll-lib@https://codeload.github.com/cruzdanilo/repro-pkgroll-lib/tar.gz/5fc7a38:
-    resolution: {tarball: https://codeload.github.com/cruzdanilo/repro-pkgroll-lib/tar.gz/5fc7a38}
+  repro-pkgroll-lib@https://codeload.github.com/cruzdanilo/repro-pkgroll-lib/tar.gz/1476cbf:
+    resolution: {tarball: https://codeload.github.com/cruzdanilo/repro-pkgroll-lib/tar.gz/1476cbf}
     version: 0.0.0
     engines: {node: '>=20'}
 
 snapshots:
 
-  repro-pkgroll-lib@https://codeload.github.com/cruzdanilo/repro-pkgroll-lib/tar.gz/5fc7a38: {}
+  repro-pkgroll-lib@https://codeload.github.com/cruzdanilo/repro-pkgroll-lib/tar.gz/1476cbf: {}
