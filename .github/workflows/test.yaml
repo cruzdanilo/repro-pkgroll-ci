@@ -16,5 +16,4 @@ jobs:
       - uses: actions/setup-node@v4
         with:
           node-version: ">=22.9.0"
-          cache: pnpm
-      - run: pnpm install --frozen-lockfile
+      - run: npm i -g esbuild@latest && export ESBUILD_BINARY_PATH=$(which esbuild) && echo $ESBUILD_BINARY_PATH && pnpm install

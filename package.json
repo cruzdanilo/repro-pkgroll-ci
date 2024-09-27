@@ -1,5 +1,10 @@
 {
   "dependencies": {
-    "repro-pkgroll-lib": "cruzdanilo/repro-pkgroll-lib#31497ff"
+    "repro-pkgroll-lib": "cruzdanilo/repro-pkgroll-lib#7797a57"
+  },
+  "pnpm": {
+    "overrides": {
+      "esbuild": "latest"
+    }
   }
 }
